@@ -1,0 +1,21 @@
+{
+  "name": "eleventy-plugin-stencil",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".eleventy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "11ty": {
+    "compatibility": ">=0.6"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^0.12.1"
+  },
+  "dependencies": {
+    "@stencil/core": "2.10.0"
+  }
+}
